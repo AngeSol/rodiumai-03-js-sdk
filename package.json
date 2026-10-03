@@ -1,0 +1,10 @@
+{
+  "name": "rodiumai-js-demo",
+  "version": "1.0.0",
+  "description": "Exercice 3 - chat, image, vidéo avec le SDK npm rodiumai",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js", "probe": "node probe.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "dotenv": "^16.4.5", "rodiumai": "latest" }
+}
